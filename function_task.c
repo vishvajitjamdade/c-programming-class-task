@@ -26,3 +26,6 @@ int main(){
     printf("Multiplication = %d\n",mult(20,10));
     printf("Division = %d\n",divi(20,10));
 }
+
+//NOTE : Global Variable : It is accessibe in entire program.
+//       Local Variable : Is accessible within that scope only.
